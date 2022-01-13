@@ -1,4 +1,4 @@
-// Karma configuration file, see link for more information
+// hola soy victor Karma configuration file, see link for more informationaaaaa
 // https://karma-runner.github.io/0.13/config/configuration-file.html
 
 module.exports = function(config) {
